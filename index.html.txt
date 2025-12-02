@@ -13,6 +13,7 @@
     <button onclick="login()">登录</button>
     <p>账号: admin | 密码: 1234</p>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>

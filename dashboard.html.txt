@@ -8,13 +8,17 @@
 <body>
   <div class="login-box">
     <h2>欢迎进入 LaujGo 后台</h2>
-    <p>这里是你的快递管理系统 demo</p>
+    <p>这里是你的快递管理系统 Demo</p>
+
     <ul style="text-align:left">
-      <li>✔ 查看订单</li>
-      <li>✔ 管理会员</li>
-      <li>✔ 设置价格</li>
-      <li>✔ 管理骑手</li>
+      <li>📦 查看订单</li>
+      <li>👥 管理会员</li>
+      <li>💰 设置价格</li>
+      <li>🚚 管理骑手</li>
     </ul>
+
+    <br>
+    <button onclick="location.href='index.html'">退出登录</button>
   </div>
 </body>
 </html>
